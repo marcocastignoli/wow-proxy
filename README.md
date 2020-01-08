@@ -1,5 +1,5 @@
 ## Discord bot creating
-* create tow bots in discord: one for wowchat, one for your custom bot
+* create two bots in discord: one for wowchat, one for your custom bot
 
 ## Configuration
 
